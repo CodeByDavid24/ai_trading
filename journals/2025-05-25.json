@@ -1,0 +1,95 @@
+{
+    "week": "May 20\u201324, 2025",
+    "account_size": 15000,
+    "strategy": "SMC (Smart Money Concepts)",
+    "session": "London",
+    "risk_per_trade_actual": 0.3,
+    "risk_per_trade_recommended": 1.0,
+    "actual_weekly_pnl": 61.59,
+    "estimated_weekly_pnl_1pct": 205.3,
+    "estimated_weekly_pnl_2pct": 410.6,
+    "win_rate": 42,
+    "average_rr": "1:2.5",
+    "total_trades": 7,
+    "wins": 3,
+    "losses": 4,
+    "trades": [
+        {
+            "pair": "EUR/USD",
+            "direction": "Long",
+            "entry": 1.123,
+            "sl": 1.12,
+            "tp1": 1.12586,
+            "tp2": 1.131,
+            "result": "TP1 & TP2",
+            "actual_pnl": 54.3,
+            "estimated_pnl_1pct": 181.0
+        },
+        {
+            "pair": "USD/JPY",
+            "direction": "Short",
+            "entry": 144.9,
+            "sl": 143.3,
+            "tp1": 143.971,
+            "tp2": 143.6,
+            "result": "TP1 & TP2",
+            "actual_pnl": 62.02,
+            "estimated_pnl_1pct": 206.73
+        },
+        {
+            "pair": "EUR/USD",
+            "direction": "Long",
+            "entry": 1.1235,
+            "sl": 1.1205,
+            "tp1": 1.12591,
+            "tp2": 1.1315,
+            "result": "TP1 & TP2",
+            "actual_pnl": 52.05,
+            "estimated_pnl_1pct": 173.5
+        },
+        {
+            "pair": "GBP/USD",
+            "direction": "Short",
+            "entry": 1.34,
+            "sl": 1.344,
+            "tp1": 1.33,
+            "tp2": 1.325,
+            "result": "SL",
+            "actual_pnl": -40.0,
+            "estimated_pnl_1pct": -133.33
+        },
+        {
+            "pair": "AUD/USD",
+            "direction": "Short",
+            "entry": 0.6425,
+            "sl": 0.646,
+            "tp1": 0.63,
+            "tp2": null,
+            "result": "Partial SL",
+            "actual_pnl": -26.7,
+            "estimated_pnl_1pct": -89.0
+        },
+        {
+            "pair": "USD/JPY",
+            "direction": "Long",
+            "entry": 143.7,
+            "sl": 143.2,
+            "tp1": 145.6,
+            "tp2": null,
+            "result": "SL",
+            "actual_pnl": -17.46,
+            "estimated_pnl_1pct": -58.2
+        },
+        {
+            "pair": "NAS100",
+            "direction": "Long",
+            "entry": 21050.0,
+            "sl": 20850.0,
+            "tp1": 21550.0,
+            "tp2": null,
+            "result": "SL",
+            "actual_pnl": -20.0,
+            "estimated_pnl_1pct": -66.67
+        }
+    ]
+}

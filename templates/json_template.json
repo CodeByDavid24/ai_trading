@@ -1,0 +1,29 @@
+{
+    "week": "YYYY-MM-DD to YYYY-MM-DD",
+    "account_size": 15000,
+    "strategy": "Your strategy here",
+    "session": "London",
+    "risk_per_trade_actual": 0.3,
+    "risk_per_trade_recommended": 1.0,
+    "actual_weekly_pnl": 0.0,
+    "estimated_weekly_pnl_1pct": 0.0,
+    "estimated_weekly_pnl_2pct": 0.0,
+    "win_rate": 0,
+    "average_rr": "1:2",
+    "total_trades": 0,
+    "wins": 0,
+    "losses": 0,
+    "trades": [
+        {
+            "pair": "EUR/USD",
+            "direction": "Long",
+            "entry": 1.1,
+            "sl": 1.095,
+            "tp1": 1.11,
+            "tp2": 1.115,
+            "result": "TP1 & TP2",
+            "actual_pnl": 0.0,
+            "estimated_pnl_1pct": 0.0
+        }
+    ]
+}
